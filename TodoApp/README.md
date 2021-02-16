@@ -1,0 +1,1 @@
+In this project, i built a Todo app using react-native. You can add todos, remove todos, mark them as checked and doing any of these steps also shows a toast!
